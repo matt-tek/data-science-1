@@ -1,0 +1,33 @@
+﻿CODE,DESCRIPTION
+31,Collision: avec véhicule routier
+32,Collision: avec piéton
+33,Collision: avec cycliste
+34,Collision: avec train
+35,Collision: avec chevreuil (cerf de Virginie)
+36, Collision: avec orignal/ours/caribou
+37, Collision: avec autre animal
+38, Collision: avec obstacle temporaire
+39,Collision: avec objet projeté/détaché
+40, Objet fixe: lampadaire
+41, Objet fixe: support/feu de signalisation
+42, Objet fixe: poteau (service public)
+43, Objet fixe: arbre
+44,Objet fixe: section de glissière de sécurité
+45,Objet fixe: atténuateur d’impact
+46,Objet fixe: extrémité de glissière de sécurité
+47, Objet fixe: pilier (pont/tunnel)
+48, Objet fixe: amoncellement de neige
+49, Objet fixe: bâtiment/édifice/mur
+50,Objet fixe: bordure/trottoir
+51, Objet fixe: borne-fontaine
+52, Objet fixe: clôture/barrière
+53, Objet fixe: fossé
+54, Objet fixe: paroi rocheuse
+55,Objet fixe: ponceau
+59, Objet fixe: autre objet fixe
+71, Sans collision: capotage
+72, Sans collision: renversement
+73, Sans collision: submersion/cours d’eau
+74, Sans collision: feu/explosion
+75, Sans collision: quitte la chaussée
+99, Sans collision: autre

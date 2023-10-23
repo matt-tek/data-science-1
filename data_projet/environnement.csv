@@ -1,0 +1,10 @@
+﻿CODE,DESCRIPTION
+1, Scolaire
+2, Résidentiel
+3, Affaires / commercial 
+4, Industriel / manufacturier
+5,Rural
+6, Forestier
+7, Récréatif / parc / camping
+9, Autre (ex. lac)
+0, Non précisé

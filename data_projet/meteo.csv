@@ -1,0 +1,11 @@
+﻿CODE,DESCRIPTION
+11,Clair
+12,Couvert (nuageux/sombre)
+13, Brouillard/brume
+14, Pluie/bruine
+15, Averse (pluie forte)
+16,"Vent fort (pas de poudrerie, pas de pluie)"
+17, Neige/grêle
+18,Poudrerie/tempête de neige
+19,Verglas
+99,Autre
